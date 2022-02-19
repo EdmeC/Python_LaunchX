@@ -1,8 +1,10 @@
 # Python_LaunchX
 Proyecto: CursoIntro Python
+
 author: Fernanda Ochoa
 
 Proyecto: Practicas LaunchX Python 
+
 author: Mariana Edme Contreras 
 
 Las siguientes son las practicas del curso propedeutico de Python para el
